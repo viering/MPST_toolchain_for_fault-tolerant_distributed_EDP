@@ -1,0 +1,15 @@
+
+#idea
+.idea
+
+#scala
+target
+
+#logs
+logs
+
+*.log
+*.attach_pid*
+
+
+venv
